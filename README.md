@@ -5,7 +5,7 @@ Raspotify is a [Debian package and associated repository](https://en.wikipedia.o
 
 Raspotify is intended to be used in a *[headless enviroment](https://en.wikipedia.org/wiki/Headless_computer)*. For desktop OS's [spotifyd](https://github.com/Spotifyd/spotifyd) offers similar functionality and is a better choice. If you're looking for a turnkey audio solution for Raspberry Pi's with Spotify Connect support we recommend [moOde™ audio player](https://moodeaudio.org/).
 
-**Librespot, and therefore Raspotify, requires a premium account.**
+**Librespot, and therefore Raspotify, requires a premium account because this app is stupid.**
 
 ## Installation
 
